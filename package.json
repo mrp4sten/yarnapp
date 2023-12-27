@@ -1,0 +1,8 @@
+{
+  "name": "yarnapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mrp4sten/yarnapp.git",
+  "author": "mrp4sten <mauricio.pasten.martinez@gmail.com>",
+  "license": "MIT"
+}
